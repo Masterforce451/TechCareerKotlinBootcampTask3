@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">Jacketland</string>
+    <string name="jacketFeatures">①Sewn Through Construction keeps down insulation in place while lightening the weight\n②Down-proofing helps keep down from escaping through the face fabric\n③Micro-fleece lined collar provides an additional warmth around the neck\n④Zip End Guard protects your chin and face\n⑤Water Repellent Zipper helps keep water out\n⑥Pocket Hem Adjuster allows for cinching the hem while helping keep out chill air\n⑦Elastic cuffs prevent cold air from entering\n⑧4 pockets (2 zippered fleece lined pockets, 2 internal drop-in pockets)\n⑨Stuff sack included</string>
+    <string name="jacketSpecsCategories">Weight:\nFill weight:\nInsulation:\nMaterial:\n\n\nCompressed size:\nCountry of origin:\nCenter back length:\nOther:</string>
+    <string name="jacketSpecs">342 g (12.1 oz)\n120 g (4.2 oz)\n800 Fill Power EX Down\n20-denier Ballistic nylon ripstop (water repellent finish)\nLining: 20-denier Ballistic nylon taffeta\n∅14 x 22 cm (∅5.3 x 8.8 in)\nVIETNAM\n71 cm (28 in)\nFront zipper: Left hand insert</string>
+    <string name="productName">ALPINE LIGHT DOWN JACKET MEN\'S</string>
+    <string name="price">Price: €279.00</string>
+    <string name="size">Size:</string>
+    <string name="buy">BUY</string>
+    <string name="color">Color:</string>
+    <string name="features">Features:</string>
+    <string name="specs">Specs:</string>
+    <string name="smallSize">S</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">L</string>
+    <string name="xlargeSize">XL</string>
+</resources>

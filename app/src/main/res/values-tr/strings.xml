@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">Jacketland</string>
+    <string name="jacketFeatures">①Dikişli Yapı, ağırlığı hafifletirken yalıtımı yerinde tutar\n②Down-proofing, tüylerin yüz kumaşından kaçmasını önlemeye yardımcı olur\n③Mikro polar astarlı yaka, boyun çevresinde ek bir sıcaklık sağlar\n④Fermuarlı Uç Koruması çenenizi ve yüzünüzü korur\n⑤Su Geçirmez Fermuar suyun dışarıda kalmasına yardımcı olur\n⑥Cep Kenar Ayarlayıcısı soğuk havayı dışarıda tutarken etek ucunun daraltılmasına olanak tanır\n⑦Elastik manşetler soğuk havanın girmesini önler\n⑧4 cep (2 fermuarlı muflon astarlı cep, 2 dahili gömme cep)\n⑨Eşya çantası dahildir</string>
+    <string name="jacketSpecsCategories">Ağırlık:\nDolgu ağırlığı:\nYalıtım:\nMalzeme:\n\n\nSıkıştırılmış boyut:\nMenşe ülke:\nOrta arka uzunluk:\nDiğer:</string>
+    <string name="jacketSpecs">342 g (12,1 oz)\n120 g (4,2 oz)\n800 Fill Power EX Down\n20 denye Balistik naylon yırtılmaz (su itici kaplama)\nAstar: 20 denye Balistik naylon tafta\n∅14 x 22 cm (∅5,3) x 8,8 inç)\nVIETNAM\n71 cm (28 inç)\nÖn fermuar: Sol taraftaki ek parça</string>
+    <string name="productName">ALPINE LIGHT DOWN JACKET MEN\'S</string>
+    <string name="price">Fiyat: €279.00</string>
+    <string name="size">Boy:</string>
+    <string name="buy">SATIN AL</string>
+    <string name="color">Renk:</string>
+    <string name="features">Özellikler:</string>
+    <string name="specs">Teknik Özellikler:</string>
+    <string name="smallSize">S</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">L</string>
+    <string name="xlargeSize">XL</string>
+</resources>
